@@ -1,0 +1,12 @@
+{
+  "name": "js-barcode-ocr",
+  "version": "1.0.0",
+  "description": "",
+  "author": "yushulx",
+  "license": "MIT",
+  "dependencies": {
+    "dynamsoft-javascript-barcode": "^7.3.0-v2",
+    "dynamsoft-node-barcode": "^7.3.0-v0",
+    "tesseract.js": "^2.0.2"
+  }
+}
