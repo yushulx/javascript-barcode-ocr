@@ -39,3 +39,6 @@ https://github.com/naptha/tessdata
 - https://github.com/naptha/tesseract.js/blob/master/docs/api.md
 - https://github.com/jeromewu/tesseract.js-offline
 - https://github.com/dynamsoft-dbr/javascript-barcode
+
+## Blog
+[How to Empower JavaScript Barcode Scan with Tesseract.js OCR](https://www.codepool.biz/javascript-barcode-scan-ocr-text.html)
